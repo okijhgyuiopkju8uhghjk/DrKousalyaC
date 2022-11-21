@@ -40,6 +40,7 @@ p {
 
 .container-fluid {
   padding: 7% 15%;
+  padding-bottom: 2%;
 }
 
 /* sections */
@@ -55,7 +56,7 @@ p {
 
 /* navigation bar  */
 .navbar {
-  padding: 0 0 8.5rem;
+  padding: 0 0 2.5rem;
 }
 
 .nav-item {
