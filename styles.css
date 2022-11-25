@@ -41,6 +41,11 @@ p {
 .container-fluid {
   padding: 7% 15%;
   padding-bottom: 2%;
+
+}
+
+.card {
+  border: 5px solid #fff;
 }
 
 /* sections */
